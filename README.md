@@ -1,5 +1,6 @@
 # deepneedle
 This project was done under EG3301R in NUS as part of my engineering undergraduate requirement.
+Paper: https://www.springerprofessional.de/en/ultrasound-needle-segmentation-and-trajectory-prediction-using-e/17588942
 
 Abstract
 Purpose
